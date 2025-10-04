@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CunDropShipping-Shipments")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99e827f4d5399343434d806a61bcedeb970fe938")]
 [assembly: System.Reflection.AssemblyProductAttribute("CunDropShipping-Shipments")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CunDropShipping-Shipments")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
