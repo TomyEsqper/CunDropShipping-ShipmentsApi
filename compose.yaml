@@ -1,0 +1,7 @@
+﻿services:
+  cundropshipping-shipments:
+    image: cundropshipping-shipments
+    build:
+      context: .
+      dockerfile: CunDropShipping-Shipments/Dockerfile
+
