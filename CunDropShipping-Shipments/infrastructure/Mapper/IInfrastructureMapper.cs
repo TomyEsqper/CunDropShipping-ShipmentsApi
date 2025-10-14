@@ -5,8 +5,8 @@ namespace CunDropShipping_Shipments.infrastructure.Mapper;
 
 public interface IInfrastructureMapper
 {
-    ShipmentsEntity ToInfrastructureEntity(DomainShipmentsEntity domainShipment);
-    List<ShipmentsEntity> ToInfrastructureEntityList(List<DomainShipmentsEntity> domainShipmentsList);
-    DomainShipmentsEntity ToDomainShipmentsEntity(ShipmentsEntity domainShipment);
-    List<DomainShipmentsEntity> ToDomainShipmentsEntityList(List<ShipmentsEntity> shipmentsEntities);
+    ShipmentsEntity ToInfrastructureEntity(DomainShipmentEntity domainShipment);
+    List<ShipmentsEntity> ToInfrastructureEntityList(List<DomainShipmentEntity> domainShipmentsList);
+    DomainShipmentEntity ToDomainShipmentsEntity(ShipmentsEntity domainShipment);
+    List<DomainShipmentEntity> ToDomainShipmentsEntityList(List<ShipmentsEntity> shipmentsEntities);
 }
